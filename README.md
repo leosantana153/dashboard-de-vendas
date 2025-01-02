@@ -20,7 +20,6 @@ Analisar os dados de vendas para entender melhor:
 
 ## 📂 **Estrutura do Repositório**
 - `dados/`: Contém os arquivos de dados utilizados fictícios.
-- `imagens/`: Screenshots do dashboard para visualização rápida.
 - `README.md`: Documentação do projeto.
 
 ---
